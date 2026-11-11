@@ -17,6 +17,4 @@
 * **Decision-Making Impact**: Enabled administrators to target counseling resources to high-risk cohorts[cite: 3].
 
 ---
-
-* **Portfolio**: [bit.ly/aaaqilportfolio](https://bit.ly/aaaqilportfolio)[cite: 1]
 * **LinkedIn**: [in/aaaqil-medalla](https://www.linkedin.com/in/aaaqil-medalla-3835273a3/)[cite: 1]
