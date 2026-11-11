@@ -1,14 +1,5 @@
 # Aaaqil Medalla | Data Analyst Profile
 
-## Syntax Guide
-
-| Element | Syntax | Example |
-| :--- | :--- | :--- |
-| **Header** | `## Title` | `## Project` |
-| **Link** | `[Label](URL)` | `[Portfolio](https://bit.ly/aaaqilportfolio)` |
-
----
-
 ## Portfolio Project
 
 **[Project 1: International Student Mental Health Analysis](notebook.ipynb)**
