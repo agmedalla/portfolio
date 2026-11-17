@@ -2,7 +2,7 @@
 
 ## Portfolio Project
 
-**[Project 1: International Student Mental Health Analysis](notebook.ipynb)**
+**[Project 1: International Student Mental Health Exploratory Analysis](notebook.ipynb)**
 * **Technical Skills**: I applied PostgreSQL data aggregation (`GROUP BY`, `AVG()`) to analyze student survey metrics[cite: 1, 3].
 * **Key Findings**: We found out that isolated peak depression in Year 3 (9.09 PHQ-9) and highest stress in Year 4 (87.71 ASISS)[cite: 3].
 * **Decision-Making Impact**: This data enabled administrators to target counseling resources to high-risk cohorts[cite: 3].
