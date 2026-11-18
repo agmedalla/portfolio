@@ -1,4 +1,4 @@
-# Aaaqil Medalla | Data Analyst Profile
+# Aaaqil Medalla | Data Science Profile
 
 ## Portfolio Project
 
