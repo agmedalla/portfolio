@@ -1,14 +1,16 @@
 # Aaaqil Medalla | Data Science Profile
 
+This portfolio showcases my data analytics skills across SQL, Tableau (business intelligence), and Python—use the table of contents below to navigate by tool, and click any project title to explore the full analysis and code.
+
 ## Table of Contents
-- [SQL & PostgreSQL](#sql--postgresql)
-- [Tableau & Business Intelligence](#tableau--business-intelligence)
+- [SQL](#sql)
+- [Tableau (Business Intelligence)](#tableau-business-intelligence)
 - [Python *(Coming Soon)*](#python-coming-soon)
 - [Connect](#connect)
 
 ---
 
-## SQL & PostgreSQL
+## SQL
 
 **[International Student Mental Health Exploratory Analysis](notebook.ipynb)**
 - **Technical Skills**: Applied PostgreSQL data aggregation (`GROUP BY`, `AVG()`) to analyze student survey metrics across cohort tenures.
@@ -22,7 +24,7 @@
 
 ---
 
-## Tableau & Business Intelligence
+## Tableau (Business Intelligence)
 
 **[Debt-Relief Lead Generation Analytics & CPL Optimization](Debt_Relief_Lead_Quality_Diagnostic_Dashboard.ipynb)**
 - **Technical Skills**: Applied Tableau Public (Calculated Fields, `COUNTD` deduplication, choropleth mapping, dual-axis bar charts, trendlines) and Microsoft Excel to clean and analyze 3,012 consumer debt-relief leads across acquisition partners, debt tiers, ad creatives, and U.S. states.
@@ -37,5 +39,3 @@
 ---
 
 ## Connect
-- **LinkedIn**: [in/aaaqil-medalla](https://www.linkedin.com/in/aaaqil-medalla-3835273a3/)
-- **Portfolio**: [aaaqilmedalla.my.canva.site](https://aaaqilmedalla.my.canva.site/)
