@@ -1,6 +1,6 @@
 # Aaaqil Medalla | Data Science Profile
 
-This portfolio showcases my data analytics skills across SQL, Tableau (business intelligence), and Python—use the table of contents below to navigate by tool, and click any project title to explore the full analysis and code.
+This portfolio showcases my data analytics skills across SQL, Tableau (business intelligence), and Python. Feel free to use the table of contents below to navigate by tool, and click any project title to explore the full analysis and code.
 
 ## Table of Contents
 - [SQL](#sql)
